@@ -1,0 +1,17 @@
+<h1>E-Commerce Website with React, Redux Toolkit, and Tailwind CSS</h1>
+
+This is a full-fledged e-commerce website built using React.js, Redux Toolkit, and Tailwind CSS. The project utilizes various libraries and tools to create a modern and efficient online shopping experience.
+
+<h3>Features</h3>
+<h3>React ViteJS:</h3> Utilizes Vite for fast development and building processes.
+<h3>Redux Toolkit:</h3> Implements Redux state management with simplified syntax and improved performance.
+<h3>React Router DOM:</h3> Navigates between different pages and handles routing within the application.
+<h3>Tailwind CSS:</h3> Provides a utility-first CSS framework for styling components quickly and efficiently.
+<h3>React Icons:</h3> Integrates customizable icon components to enhance the user interface.
+<h3>React Paginate:</h3> Implements pagination functionality for navigating through large sets of data.
+<h3>React Slick & Slick Carousel:</h3> Incorporates carousel/slider components for showcasing product galleries.
+<h3>React Redux:</h3> Official React bindings for Redux, enabling the connection of Redux store with React components.
+
+<h3>Proje Goruntusu</h3>
+
+![](Ekrangoruntusu.gif)
