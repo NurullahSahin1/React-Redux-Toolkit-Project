@@ -16,3 +16,5 @@ Currently, two official plugins are available:
 - npx tailwindcss init -p
 - Tailwind.config dosyasına içerik yükleme
 # React-Redux-Toolkit-Project
+
+![](Ekrangoruntusu.gif)
